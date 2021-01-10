@@ -1,3 +1,3 @@
-# ARTH-
-I am a arth learner 
-i created aws automation using python script
+# ARTH
+I am a ARTH LEARNER 
+
